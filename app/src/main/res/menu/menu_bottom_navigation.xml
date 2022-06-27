@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Product"
+        android:title="@string/Video"
+        android:icon="@drawable/ic_videos"/>
+    <item android:id="@+id/Recycler"
+        android:title="@string/RecyclerFragment"
+        android:icon="@drawable/ic_list"/>
+    <item android:id="@+id/Music"
+        android:title="@string/Music"
+        android:icon="@drawable/ic_music_"/>
+</menu>
